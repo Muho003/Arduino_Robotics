@@ -12,3 +12,5 @@ Planning Ahead:
 5. Line Following
 6. Maze Solving/ Pathfinding
 7. IMU Sensor
+8. Internet control /w ESP8266 WiFi Module /Particle Photon
+9. MQTT Robot control
